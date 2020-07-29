@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box;
-}
+} 
 
 h1 {
   text-align: center;
@@ -22,7 +22,7 @@ p {
 }
 
 section {
-  position: relative;
+  /*position: relative; */
   border: 1px solid black;
   background-color: #A9A9A9;
   width: 100%;

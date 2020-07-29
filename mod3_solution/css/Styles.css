@@ -1,0 +1,31 @@
+body{
+	font-family: Candara, Arial, Helvetica, sans-serif;
+	background-color: #61122f; /* dark shade of pink */
+}
+
+#navbrand{  /* Food, LLC */
+	font-size: 30px;
+}
+
+#nav-list a {
+  
+  text-align: center;
+}
+
+#page-heading{ /*  Our Menu */
+	margin-top: 30px;
+	margin-bottom: 50px;
+	color: #FFFFFF; /* white */
+}
+
+#main-content{
+	border-radius: 5px;
+	box-shadow: 0 0 50px #3F0C1F;  /* very dark pink */
+	background-color: #f6b319;  /* yellow */
+	padding: 20px;
+	margin-bottom: 30px;
+}
+
+#nav-list li{
+	font-size: 20px;
+}
